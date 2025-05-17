@@ -8,7 +8,8 @@ public class Main {
 
             // 1. Генерация тестовых данных
             System.out.println("Генерация тестовых меток вокруг Москвы...");
-            generateTestData(storage, 55.751244, 55.618423, 100);
+      
+            generateTestData(storage, 33.751244, 22.618423, 100);
 
             // 2. Ввод параметров поиска
             System.out.println("\nВведите параметры поиска:");
